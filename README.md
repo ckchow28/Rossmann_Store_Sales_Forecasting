@@ -25,7 +25,7 @@
   
 <hr>
 
-#### Week 6: Exploratory Data Analysis
+### Week 6: Exploratory Data Analysis
 - Initial data analysis *(Sunaina, Rayaraprol)*
     - Descriptive statistic
     - Graphs plotting (histogram,boxplot, etc)
@@ -36,7 +36,7 @@
 
 <hr>
 
-#### Week 7 : Features Selection
+### Week 7 : Features Selection
 -	Multivariable Linear Regression *(Zhen Xue, Gue)*
     - Pearson Correlalation heatmap
     - Coefficient importance
@@ -52,7 +52,7 @@ target  : Sales
 
 <hr>
 
-#### Week 8 and 9 : Predictive modelling and Machine Learning ALgorithms
+### Week 8 and 9 : Predictive modelling and Machine Learning ALgorithms
 - Single modelling *(Hui Shawn, Lim)*
     - Decision Tree Regressor
 
